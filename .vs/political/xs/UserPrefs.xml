@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{90C77FC1-EA2E-B089-7B2D-6AC2711B36F9}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Mine/Script/Score.cs">
+    <Files>
+      <File FileName="../Story/Assets/Script/SceneTransitions.cs" Line="14" Column="16" />
+      <File FileName="Assets/Mine/Script/ScoreSceneTrans.cs" Line="19" Column="2" />
+      <File FileName="Assets/Mine/Script/Score.cs" Line="26" Column="1" />
+      <File FileName="Assets/Mine/Script/RandomCreateCube.cs" Line="8" Column="5" />
+      <File FileName="Assets/Mine/Script/Walking.cs" Line="1" Column="1" />
+      <File FileName="Assets/Mine/Script/cubeExplode.cs" Line="8" Column="27" />
+      <File FileName="Assets/Mine/Script/TurnAround.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
